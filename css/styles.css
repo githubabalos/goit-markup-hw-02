@@ -1,9 +1,10 @@
-body{
+:root{
+    --background: #FFFFFF;
+}
+
+ody{
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background: #FFFFFF;
 }
 
-:root{
-    --background: #FFFFFF;
-}
