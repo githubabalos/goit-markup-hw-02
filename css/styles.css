@@ -37,10 +37,7 @@ span{
     text-decoration: none;
 }
 
-.first:hover{
+.list .first:focus , .list .first:hover{
     color: #404bbf;
 }
 
-.list .first:focus{
-    color: #404bbf;
-}
