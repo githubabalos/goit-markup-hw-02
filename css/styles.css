@@ -40,3 +40,7 @@ span{
 .first:hover{
     color: #404bbf;
 }
+
+.list .first:focus{
+    color: #404bbf;
+}
