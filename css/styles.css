@@ -79,6 +79,6 @@ span{
     color: #ffffff;
 }
 
-.first-section .order-button:focus , .first-section .order-button:hover{
+.order-button:focus , .order-button:hover{
     color: #404BBF;
 }
