@@ -160,3 +160,6 @@ span{
     cursor: pointer;
 }
 
+.default link{
+    text-decoration: none;
+}
