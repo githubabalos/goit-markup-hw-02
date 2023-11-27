@@ -156,5 +156,7 @@ span{
 
 .all-button:focus , .all-button:hover{
     color: #FFFFFF;
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
