@@ -153,3 +153,8 @@ span{
     color: #4d5ae5;
     background-color: #F4F4FD;
 }
+
+.all-button:focus , .all-button:hover{
+    color: #FFFFFF;
+}
+
